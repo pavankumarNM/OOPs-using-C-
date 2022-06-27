@@ -43,7 +43,4 @@ int main()
 
 
 
-// fucking wasting time no way there has to be the way why iam fucking doing all these shit hell 
-// no matter what heppens i will always find a way to don this shit 
-//  yavagadru time sikkudre nodu macha idella ;;;;;;;;;;;;;;;
 // exit idiot
