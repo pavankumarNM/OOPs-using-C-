@@ -37,7 +37,7 @@ int main(){
 
 
 /*     this below function is for only integers vectors above is template used function
-ok i thing u learnt this much now concentrate on the ESA exams   plz ........ 
+  
 class vector{    
     
     public:
