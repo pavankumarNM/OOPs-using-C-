@@ -34,5 +34,4 @@ int main()
     p3.distance(p1,p2);
     return 0;
 }
-// benke laude the code with harry ne sabh kuch gadbad kardiya 
-//i wasted about 2 hrs to find out the single bug fucking time waste        fuck u bugs      
+   
