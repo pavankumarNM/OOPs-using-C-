@@ -59,4 +59,4 @@ int main(){
 
 // this is fucking easy but u have to  do daily practice for this thing    simply fucking crazy right but ont thing to remember that is this is hell 
 // dont worry i am just typing to improve my typing skills so that to get better life and don my own thing
-// fucking shit right yes i am shit      
+    
