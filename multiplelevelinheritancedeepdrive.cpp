@@ -51,17 +51,6 @@ int main(){
 
 
 
-// some problems fucking solve
-// get lost mother fucker
-
-
-
-
-//backing off sukers
-
-
-
-
 
 
 //solved successfully ;;;;;;;;;;;;;;
