@@ -51,7 +51,6 @@ int main()
     o2.display();
     
 
-     // this is the first fucking code that successfully got runned without any compilation problem 
-     //  I am fucking happy ohh wait what i donr is just seeen the code of some youtuber 
+ 
     return 0;
 }
